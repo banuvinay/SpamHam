@@ -1,4 +1,7 @@
 sklearn
+flask
+sklearn
+joblib
 fastapi
 pandas
 pydantic
